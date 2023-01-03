@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mini-movie-app/static/css/main.334bdeb1.css",
+    "main.js": "/mini-movie-app/static/js/main.cccb3ee7.js",
+    "index.html": "/mini-movie-app/index.html",
+    "static/media/search.svg": "/mini-movie-app/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/mini-movie-app/static/css/main.334bdeb1.css.map",
+    "main.cccb3ee7.js.map": "/mini-movie-app/static/js/main.cccb3ee7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.cccb3ee7.js"
+  ]
+}
